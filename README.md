@@ -1,2 +1,2 @@
-# Blockchain-Criando-NFT
-Criando um NFT na Prática
+# Criando um NFT na Prática
+
